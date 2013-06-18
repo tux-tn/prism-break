@@ -155,7 +155,9 @@
   "i18n-gibberbot-desc": "私密且安全的 Android 通訊軟體(使用 OTR 協定)。",
   "i18n-orbot-desc": "Android 上的 Tor 匿名網路代理伺服器。",
   "i18n-redphone-desc": "Android 上的防竊聽電話軟體。",
+  "i18n-surespot-desc": "Free, open-source, end-to-end encrypted messaging.",
   "i18n-textsecure-desc": "Android 上的加密簡訊。",
+  "i18n-xabber-desc": "OTR-encrypted instant messaging for Android.",
 
 
 
@@ -172,6 +174,8 @@
   "i18n-partly-proprietary": "部份為私有軟體*",
   "i18n-proprietary": "私有軟體*",
   "i18n-invite-only": "邀請制",
+  "i18n-newbies-choice": "newbie's choice",
+  "i18n-editors-choice": "editor's choice",
 
 
 
@@ -191,6 +195,7 @@
   "i18n-italian": "Italian",
   "i18n-polish": "波蘭文",
   "i18n-spanish": "西班牙文",
+  "i18n-chinese-traditional": "繁體中文",
 
 
 

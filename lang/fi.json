@@ -155,7 +155,9 @@
   "i18n-gibberbot-desc": "Yksityinen keskustelusovellus Androidille, jonka keskusteluja ei tallenneta palvelimille.",
   "i18n-orbot-desc": "Tor-välityspalvelin Androidille.",
   "i18n-redphone-desc": "Turvalliset yksityispuhelut Androidille.",
+  "i18n-surespot-desc": "Free, open-source, end-to-end encrypted messaging.",
   "i18n-textsecure-desc": "Tietoturvalliset teksti- ja multimediaviestit Androidille.",
+  "i18n-xabber-desc": "OTR-encrypted instant messaging for Android.",
 
 
 
@@ -172,6 +174,8 @@
   "i18n-partly-proprietary": "osittain patentoitu*",
   "i18n-proprietary": "patentoitu*",
   "i18n-invite-only": "rekisteröityminen vain kutsulla",
+  "i18n-newbies-choice": "newbie's choice",
+  "i18n-editors-choice": "editor's choice",
 
 
 
@@ -191,6 +195,7 @@
   "i18n-italian": "Italian",
   "i18n-polish": "Puola",
   "i18n-spanish": "Espanja",
+  "i18n-chinese-traditional": "Chinese (Traditional)",
 
 
 

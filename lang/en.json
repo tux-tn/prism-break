@@ -44,7 +44,7 @@
 
 
   "i18n-darknet": "Darknet",
-  "i18n-freenet-desc": "Decentralised censorship-resistant network.",
+  "i18n-freenet-desc": "Decentralized censorship-resistant network.",
   "i18n-i2p-desc": "The invisible internet project.",
   "i18n-nightweb-desc": "Anonymous I2P network for Android.",
   "i18n-syndie-desc": "Distributed, anonymous forum software.",
@@ -65,8 +65,8 @@
 
 
   "i18n-email-clients": "Email desktop clients",
-  "i18n-clawsmail-desc": "Lightweight email application with GnuPG support.",
-  "i18n-evolution-desc": "Free email and calendar application.",
+  "i18n-clawsmail-desc": "Lightweight email application with GPG support.",
+  "i18n-evolution-desc": "Free email and calendar application with GPG support.",
   "i18n-icedove-desc": "Free version of Mozilla Thunderbird.",
   "i18n-kmail-desc": "KDE email client with GPG support.",
   "i18n-thunderbird-desc": "Open source email application.",
@@ -87,7 +87,7 @@
 
 
   "i18n-cloud-storage": "Cloud storage",
-  "i18n-gitannex-desc": "Synchronizes folders on each of your computers &amp; drives.",
+  "i18n-gitannex-desc": "Synchronize folders on your computers and drives.",
   "i18n-owncloud-desc": "Cloud data in your control.",
   "i18n-sparkleshare-desc": "Self-hosted version control and file sync.",
   "i18n-tahoelafs-desc": "Free and open cloud storage system.",
@@ -110,7 +110,7 @@
   "i18n-cryptocat-desc": "Private, encrypted online conversations.",
   "i18n-otr-desc": "Install and enable in Pidgin for encrypted chat.",
   "i18n-pidgin-desc": "Open source chat program.",
-  "i18n-adium-desc": "Pidgin for OS X (remember to enable OTR).",
+  "i18n-adium-desc": "Multi-protocol chat client for OS X (remember to enable OTR).",
   "i18n-retroshare-desc": "Free, secure, P2P communications platform.",
 
 
@@ -155,7 +155,9 @@
   "i18n-gibberbot-desc": "Private, secure OTR messaging for Android.",
   "i18n-orbot-desc": "Tor proxy for Android.",
   "i18n-redphone-desc": "Secure private calls for Android.",
+  "i18n-surespot-desc": "Free, open-source, end-to-end encrypted messaging.",
   "i18n-textsecure-desc": "Secure SMS/MMS communication for Android.",
+  "i18n-xabber-desc": "OTR-encrypted instant messaging for Android.",
 
 
 
@@ -172,6 +174,8 @@
   "i18n-partly-proprietary": "partly proprietary*",
   "i18n-proprietary": "proprietary*",
   "i18n-invite-only": "invite-only",
+  "i18n-newbies-choice": "newbie's choice",
+  "i18n-editors-choice": "editor's choice",
 
 
 
@@ -191,6 +195,7 @@
   "i18n-german": "German",
   "i18n-polish": "Polish",
   "i18n-spanish": "Spanish",
+  "i18n-chinese-traditional": "Chinese (Traditional)",
 
 
 
@@ -201,5 +206,5 @@
 
 
 
-  "i18n-footer-disclaimer": "Disclaimer: This website supports the Electronic Frontier Foundation (EFF) and the Free Software Foundation (FSF), but is not officially endorsed by either."
+  "i18n-footer-disclaimer": "Disclaimer: This website is not officially endorsed by the Electronic Frontier Foundation."
 }

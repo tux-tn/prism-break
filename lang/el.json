@@ -137,13 +137,23 @@
 
 
 
-  "i18n-csipsimple-desc": "Ελεύθερο, κρυπογραφημένο VOIP για Android.",
   "i18n-cyanogenmod-desc": "Εναλλακτικό firmware για τηλέφωνα Android.",
+  "i18n-replicant-desc": "Ελεύθερη διανομή Android.",
+
+
+
+  "i18n-android-app-store": "Android App Store",
+  "i18n-fdroid-desc": "Free and open source apps for Android.",
+
+
+  
+  "i18n-csipsimple-desc": "Ελεύθερο, κρυπογραφημένο VOIP για Android.",
   "i18n-gibberbot-desc": "Ιδιωτικά, ασφαλή μηνύματα OTR για Android.",
   "i18n-orbot-desc": "Tor proxy για Android.",
   "i18n-redphone-desc": "Ασφαλή ιδιωτικά τηλεφωνήματα για Android.",
-  "i18n-replicant-desc": "Ελεύθερη διανομή Android.",
+  "i18n-surespot-desc": "Free, open-source, end-to-end encrypted messaging.",
   "i18n-textsecure-desc": "Ασφαλείς SMS/MMS επικοινωνίες για Android.",
+  "i18n-xabber-desc": "OTR-encrypted instant messaging for Android.",
 
 
 
@@ -159,6 +169,8 @@
   "i18n-partly-proprietary": "μερικώς ιδιόκτητο*",
   "i18n-proprietary": "ιδιόκτητο*",
   "i18n-invite-only": "Με πρόσκληση μόνο",
+  "i18n-newbies-choice": "newbie's choice",
+  "i18n-editors-choice": "editor's choice",
 
 
 
@@ -178,6 +190,7 @@
   "i18n-italian": "Italian",
   "i18n-polish": "Πολωνικά",
   "i18n-spanish": "Ισπανικά",
+  "i18n-chinese-traditional": "Chinese (Traditional)",
 
 
 

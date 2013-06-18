@@ -151,7 +151,9 @@
   "i18n-gibberbot-desc": "اس‌ام‌اس امن با حفظ حریم شخصی",
   "i18n-orbot-desc": "تور برای اندروید",
   "i18n-redphone-desc": "تماس تلفنی امن برای آندروید",
+  "i18n-surespot-desc": "Free, open-source, end-to-end encrypted messaging.",
   "i18n-textsecure-desc": "اس‌ام‌اس امن برای اندروید",
+  "i18n-xabber-desc": "OTR-encrypted instant messaging for Android.",
 
 
 
@@ -168,6 +170,8 @@
   "i18n-partly-proprietary": "دارای بخش‌های مالکیت طلبانه*",
   "i18n-proprietary": "مالکیت طلبانه*",
   "i18n-invite-only": "فقط با دعوت‌نامه",
+  "i18n-newbies-choice": "newbie's choice",
+  "i18n-editors-choice": "editor's choice",
 
 
 
@@ -190,6 +194,7 @@
   "i18n-italian": "Italian",
   "i18n-polish": "لهستانى",
   "i18n-spanish": "اسپانيايى",
+  "i18n-chinese-traditional": "Chinese (Traditional)",
 
 
 

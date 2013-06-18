@@ -155,7 +155,9 @@
   "i18n-gibberbot-desc": "Messagerie OTR sécurisée et privée pour Android.",
   "i18n-orbot-desc": "Proxy TOR pour Android.",
   "i18n-redphone-desc": "Appels sécurisés et privés pour Android.",
+  "i18n-surespot-desc": "Free, open-source, end-to-end encrypted messaging.",
   "i18n-textsecure-desc": "Communication SMS/MMS sécurisée pour Android.",
+  "i18n-xabber-desc": "OTR-encrypted instant messaging for Android.",
 
 
 
@@ -172,6 +174,8 @@
   "i18n-partly-proprietary": "partiellement propriétaire*",
   "i18n-proprietary": "propriétaire*",
   "i18n-invite-only": "seulement sur invitation",
+  "i18n-newbies-choice": "newbie's choice",
+  "i18n-editors-choice": "editor's choice",
 
 
 
@@ -191,6 +195,7 @@
   "i18n-italian": "Italian",
   "i18n-polish": "Polonais",
   "i18n-spanish": "Espagnols",
+  "i18n-chinese-traditional": "Chinese (Traditional)",
 
 
 
