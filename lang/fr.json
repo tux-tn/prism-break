@@ -18,7 +18,7 @@
   "i18n-web-browser": "Navigateur web",
   "i18n-icecat-desc": "Version GNU de Firefox.",
   "i18n-firefox-desc": "Navigateur web open source.",
-  "i18n-torbrowser-desc": "Navigation chiffré et anonyme.",
+  "i18n-torbrowser-desc": "Navigation chiffrée et anonyme.",
 
 
 
@@ -53,8 +53,8 @@
 
   "i18n-online-transactions": "Transactions en ligne",
   "i18n-bitcoin-desc": "Monnaie numérique P2P sans autorité centrale.",
-  "i18n-cryptocoins-title": "Alternative cryptocurrencies.",
-  "i18n-cryptocoins-desc": "List of alternative encrypted digital currencies.",
+  "i18n-cryptocoins-title": "Monnaies cryptographiques alternatives.",
+  "i18n-cryptocoins-desc": "Liste des monnaies numériques alternatives chiffrées.",
 
 
 
@@ -98,7 +98,7 @@
   "i18n-diaspora-desc": "Réseau social distribué géré par la communauté.",
   "i18n-friendica-desc": "Serveur web social gratuit et open source.",
   "i18n-gnusocial-desc": "Réseau social décentralisé et auto-hébergé.",
-  "i18n-lorea-desc": "Distributed and federated social nodes.",
+  "i18n-lorea-desc": "Noeux sociaux distribués et fédérés.",
   "i18n-movim-desc": "Serveur de réseau social privé et décentralisé.",
   "i18n-pumpio-desc": "Serveur de flux social auto-hébergé.",
   "i18n-salutatoi-desc": "Outil de communication multi-fonction et multi-interface.",
