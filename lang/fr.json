@@ -117,7 +117,7 @@
 
   "i18n-video-voip": "Vidéo conférence/VoIP",
   "i18n-jitsi-desc": "Chiffrement des discussions texte et vidéo .",
-  "i18n-linphone-desc": "Encrypted voice and video client.",
+  "i18n-linphone-desc": "Client vidéo et audio chiffré.",
   "i18n-mumble-desc": "Discussion vocale chiffrée età faible latence .",
 
 
@@ -146,8 +146,8 @@
 
   
 
-  "i18n-android-app-store": "Android App Store",
-  "i18n-fdroid-desc": "Free and open source apps for Android.",
+  "i18n-android-app-store": "App Store Android",
+  "i18n-fdroid-desc": "Applications libres et open source pour Android.",
 
 
 
@@ -159,7 +159,7 @@
 
 
 
-  "i18n-ios-insecure-desc": "iOS devices contain hardware tracking.",
+  "i18n-ios-insecure-desc": "Les appareils iOS contiennent un système de localisation matérielle.",
   "i18n-chatsecure-desc": "IM chiffré pour iOS.",
   "i18n-onionbrowser-desc": "Navigation sécurisée pour iOS.",
 
@@ -183,7 +183,7 @@
 
 
   "i18n-media-title": "Mentionné par les médias.",
-  "i18n-catalan": "Catalan",
+  "i18n-catalan": "Catalans",
   "i18n-dutch": "Néerlandais",
   "i18n-english": "Anglais",
   "i18n-french": "Français",
