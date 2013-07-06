@@ -1,33 +1,32 @@
 {
-  "i18n-action-center": "Action Center",
-
+  "i18n-title": "Opt out voor PRISM, het wereldwijde datatoezichtsprogramma van de NSA - PRISM Break",
+  "i18n-meta-description": "Opt out of PRISM, het wereldwijde datatoezichtsprogramma van de NSA. Stop met het doorgeven van online activiteiten aan de Amerikaanse overheid met deze gratis alternatieven voor gesloten software.",
   "i18n-intro": "<strong>Opt out voor PRISM, het wereldwijde datatoezichtsprogramma van de NSA.</strong> Stop met het doorgeven van online activiteiten aan de Amerikaanse overheid met deze gratis alternatieven voor gesloten software.",
 
-
+  "i18n-proprietary": "Gesloten",
+  "i18n-free-alternative": "Vrije alternatieven",
+  "i18n-notes": "Opmerkingen",
 
   "i18n-operating-system": "Besturingssysteem",
-  "i18n-gnulinux-desc": "Vrij, open source besturingssysteem.",
   "i18n-debian-desc": "Populaire ethische GNU/Linux distributie.",
   "i18n-fedora-desc": "Snelle, stabiele en krachtige GNU/Linux distributie.",
-  "i18n-bsd-desc": "FreeBSD, OpenBSD, NetBSD, PC-BSD.",
+  "i18n-linuxmint-desc": "Comfortabele en gemakkelijk te gebruiken GNU/Linux distributie.",
+  "i18n-liberte-desc": "Live CD/USB designed as a communication aid in hostile environments.",
   "i18n-tails-desc": "Live CD/USB ontworpen voor privacybescherming.",
   "i18n-trisquel-desc": "FSF goedgekeurde, gebruiksvriendelijke GNU/Linux distributie.",
-
-
+  "i18n-whonix-desc": "OS gericht op anonimiteit, privacy en veiligheid. Gebruikt standaard Tor. Bied kant en klare VM images aan.",
 
   "i18n-web-browser": "Webbrowser",
   "i18n-icecat-desc": "GNU versie van Firefox.",
   "i18n-firefox-desc": "Open source webbrowser.",
   "i18n-torbrowser-desc": "Versleuteld, anoniem surfen.",
 
-
-
   "i18n-web-browser-plugins": "Webbrowser plugins",
+  "i18n-adblockedge-desc": "Blokkeer advertenties op het web.",
+  "i18n-disconnect-desc": "Stop third-party sites from tracking you.",
   "i18n-httpseverywhere-desc": "Versleuteld je communicatie op duizenden websites.",
-  "i18n-fixtracking-desc": "Handleiding om online tracking te stoppen.",
-  "i18n-torbutton-desc": "Tor plugin voor IceCat en Firefox.",
-
-
+  "i18n-noscript-desc": "Schakel JavaScript, Java, en Flash alleen in voor sites die je vertrouwd.",
+  "i18n-requestpolicy-desc": "Regel welke cross-site aanvragen van de sites die je bezoekt worden toegestaan.",
 
   "i18n-web-search": "Zoekmachines",
   "i18n-duckduckgo-desc": "Anonieme, niet opgeslagen zoekopdrachten.",
@@ -35,43 +34,37 @@
   "i18n-seeksproject-desc": "Open decentraal platform voor gezamenlijk zoeken.",
   "i18n-yacy-desc": "Decentraal zoeken.",
 
-
-
   "i18n-dns-provider": "DNS provider",
   "i18n-opennic-desc": "Totale DNS neutraliteit.",
-  "i18n-namecoin-desc": "Distributed DNS based on Bitcoin technology.",
-
-
+  "i18n-namecoin-desc": "Gedistribueerde DNS gebaseerd op de technologie van Bitcoin.",
 
   "i18n-darknet": "Darknet",
   "i18n-freenet-desc": "Decentraal censuur-bestendig netwerk.",
   "i18n-i2p-desc": "Het onzichtbare internet project.",
   "i18n-nightweb-desc": "Anoniem I2P netwerk voor Android.",
   "i18n-syndie-desc": "Gedistribueerde en anonieme forum software.",
-
-
-
+  "i18n-tor-hidden-services-title": "Tor Verborgen Services",
+  "i18n-tor-hidden-services-desc": "Het Tor network biedt toegang tot *.onion websites.",
+  
   "i18n-online-transactions": "Online transacties",
   "i18n-bitcoin-desc": "P2P digitale munteenheid zonder centrale autoriteit.",
-  "i18n-cryptocoins-title": "Alternative cryptocurrencies.",
-  "i18n-cryptocoins-desc": "List of alternative encrypted digital currencies.",
-
-
+  "i18n-cryptocoins-title": "Alternatieve versleutelde valuta",
+  "i18n-cryptocoins-desc": "Lijst met alternatieve versleutelde online munteenheden.",
 
   "i18n-email-services": "Email diensten",
+  "i18n-autistici-desc": "Een volledige verzameling van vrije, privacy-respecterende services.",
   "i18n-bitmessage-desc": "Versleutelde, decentrale email server.",
   "i18n-riseup-desc": "Veilige en eigen email accounts.",
-
-
+  "i18n-tormail-desc": "Tor Mail is een vrije anonieme email service provider.",
+  "i18n-kolab-desc": "Groupware server voor email, kalenders, adresboeken en synchronisatie naar to mobiele telefoons.",
+  "i18n-mykolabcom-desc": "Kolab accounts gehost in Zwitzerland.",
 
   "i18n-email-clients": "Email software",
   "i18n-clawsmail-desc": "Lichtgewicht email applicatie met GnuPG ondersteuning.",
   "i18n-evolution-desc": "Vrije email en agenda applicatie met GPG ondersteuning.",
   "i18n-icedove-desc": "Vrije versie van Mozilla Thunderbird.",
-  "i18n-kmail-desc": "KDE email applicatie met GPG ondersteuning.",
+  "i18n-kontact-desc": "KDE email applicatie met GPG ondersteuning.",
   "i18n-thunderbird-desc": "Open source email applicatie.",
-
-
 
   "i18n-email-encryption": "Email versleuteling",
   "i18n-enigmail-desc": "Een OpenPGP plugin voor Thunderbird/Icedove.",
@@ -79,32 +72,26 @@
   "i18n-mailvelope-desc": "OpenPGP versleuteling voor webmail.",
   "i18n-webpg-desc": "GnuPG/PGP in je webbrowser.",
 
-
-
   "i18n-maps": "Kaarten",
   "i18n-openstreetmap-desc": "Vrije wereldkaart.",
-
-
 
   "i18n-cloud-storage": "Online opslag",
   "i18n-gitannex-desc": " Synchroniseert mappen op al je computers &amp; harddisks.",
   "i18n-owncloud-desc": "Online gegevens onder jouw controle.",
+  "i18n-seafile-desc": "Zelfgehost of in de cloud gehost versiebeheersysteem en bestandssynchronisatie.",
   "i18n-sparkleshare-desc": "Zelfgehost versiebeheersysteem en bestandssynchronisatie.",
   "i18n-tahoelafs-desc": "Gratis en open cloud opslagsysteem.",
 
-
-
   "i18n-social-networking": "Sociale netwerken",
+  "i18n-buddycloud-desc": "Open source, federaal sociaal netwerk.",
   "i18n-diaspora-desc": "Gedistribueerd sociaal netwerk van de gemeenschap.",
   "i18n-friendica-desc": "Open source, vrije sociale webserver.",
   "i18n-gnusocial-desc": "Zelfgehost, decentraal sociaal netwerk.",
-  "i18n-lorea-desc": "Distributed and federated social nodes.",
-  "i18n-movim-desc": "Eigen, decentrale sociaal netwerk server.",
+  "i18n-lorea-desc": "Verspreide en samenwerkende sociale netwerken.",
+  "i18n-movim-desc": "Eigen, decentraal sociaal netwerk server.",
   "i18n-pumpio-desc": "Zelfgehost sociale stream server.",
   "i18n-salutatoi-desc": "Multi-frontend, multifunctionele communicatietool.",
-  "i18n-tent-desc": "Vrije, autonome sociaal netwerk protocol.",
-
-
+  "i18n-tent-desc": "Vrij, autonoom sociaal netwerk protocol.",
 
   "i18n-instant-messaging": "Instant messaging",
   "i18n-cryptocat-desc": "Priv&eacute;, versleutelde online gesprekken.",
@@ -113,59 +100,50 @@
   "i18n-adium-desc": "Pidgin voor OS X (denk eraan om OTR aan te zetten).",
   "i18n-retroshare-desc": "Vrij en veilig P2P communicatieplatform.",
 
-
-
   "i18n-video-voip": "Video gesprekken/VOIP",
-  "i18n-jitsi-desc": "Versleutelde text en video chat.",
-  "i18n-linphone-desc": "Encrypted voice and video client.",
-  "i18n-mumble-desc": "Versleutelde voice chat met lage vertraging.",
-
-
+  "i18n-jitsi-desc": "Versleutelde communicatie met beeld en geluid.",
+  "i18n-linphone-desc": "Versleutelde communicatie met beeld en geluid.",
+  "i18n-mumble-desc": "Versleutelde spraak communicatie met lage vertraging.",
 
   "i18n-media-publishing": "Media publicatie",
   "i18n-gnumediagoblin-desc": "Decentraal media publicatie platform.",
+  "i18n-noblogs-desc": "Blog publicatie platform gebaseerd op WordPress, door autistici.org.",
   "i18n-piwigo-desc": "Vrij fotogalerij platform.",
   "i18n-wordpress-desc": "Vrije website/blog CMS.",
   "i18n-zenphoto-desc": "Vrije media website CMS.",
-
-
 
   "i18n-document-collaboration": "Online documenten",
   "i18n-ethercalc-desc": "Werkblad server voor meerdere gebruikers.",
   "i18n-etherpad-desc": "Open source, real-time samenwerken aan documenten.",
 
-
-
   "i18n-web-analytics": "Webstatistieken",
   "i18n-piwik-desc": "Open source, zelfgehoste website statistieken.",
 
-
+  "i18n-android": "Android",
 
   "i18n-cyanogenmod-desc": "Aftermarket firmware voor Android smartphones.",
   "i18n-replicant-desc": "Volledig vrije Android distributie.",
 
-
-
   "i18n-android-app-store": "Android App Store",
-  "i18n-fdroid-desc": "Free and open source apps for Android.",
-
-
+  "i18n-fdroid-desc": "Vrije en gratis apps voor Android.",
 
   "i18n-csipsimple-desc": "Gratis, versleutelde VOIP voor Android.",
   "i18n-gibberbot-desc": "Priv&eacute;, veilige OTR berichten voor Android.",
   "i18n-orbot-desc": "Tor proxy voor Android.",
   "i18n-redphone-desc": "Veilige priv&eacute;gesprekken voor Android.",
-  "i18n-surespot-desc": "Free, open-source, end-to-end encrypted messaging.",
+  "i18n-surespot-desc": "Gratis opensource chatclient met volledige versleuteling.",
   "i18n-textsecure-desc": "Veilige SMS/MMS communicatie voor Android.",
-  "i18n-xabber-desc": "OTR-encrypted instant messaging for Android.",
+  "i18n-xabber-desc": "OTR-versleutelde chatclient voor Android.",
 
-
-
-  "i18n-ios-insecure-desc": "iOS devices contain hardware tracking.",
+  "i18n-ios": "iOS",
+  "i18n-ios-insecure-title": "iOS is niet veilig",
+  "i18n-ios-insecure-desc": "iOS-apparaten bevatten hardware tracking.",
   "i18n-chatsecure-desc": "Versleuteld IM voor iOS.",
   "i18n-onionbrowser-desc": "Versleuteld surfen voor iOS.",
 
-
+  "i18n-meshnet": "Meshnet",
+  "i18n-meshnet-project-desc": "Een gedecentraliseerd alternatief voor het internet.",
+  "i18n-meshnet-note": "<p>A meshnet is a decentralized peer-to-peer network, with user-controlled physical links that are usually wireless.</p><p>&ldquo;Mesh networking (topology) is a type of networking where each node must not only capture and disseminate its own data, but also serve as a relay for other nodes, that is, it must collaborate to propagate the data in the network.&ldquo;</p><p>&mdash;<a href='https://en.wikipedia.org/wiki/Mesh_networking'>Wikipedia</a></p>",
 
   "i18n-add": "toevoegen",
   "i18n-mostly-free": "grotendeels vrij*",
@@ -174,17 +152,20 @@
   "i18n-partly-proprietary": "deels in eigendomsbezit*",
   "i18n-proprietary": "in eigendomsbezit*",
   "i18n-invite-only": "alleen op uitnodiging",
-  "i18n-newbies-choice": "newbie's choice",
-  "i18n-editors-choice": "editor's choice",
-
-
+  "i18n-usa-hosted": "gehost in de VS",
+  "i18n-newbies-choice": "aanrader voor beginners",
+  "i18n-editors-choice": "keuze van de redacteur",
+  "i18n-approval-required": "goedkeuring benodigd",
 
   "i18n-fsf-definition-title": "*Deze website gebruikt de <strong>Free Software Foundation&rsquo;s</strong> definitie van vrije software.",
   "i18n-fsf-quote": "&ldquo;Vrije software&rdquo; is software die de vrijheid en gemeenschap van de gebruiker respecteert. Ruwweg betekent dit <strong>dat de gebruiker de vrijheid heeft om de software te gebruiken, kopi&euml;ren, verspreiden, ervan leren, veranderen en verbeteren</strong>. Deze vrijheden zorgen ervoor dat de gebruiker controle heeft over het programma en wat het voor hem doet.",
+
+  "i18n-eff-title": "Onderneem actie tegen PRISM bij het Action Center van de <strong>Electronic Frontier Foundation</strong>.",
+  "i18n-eff-quote-1": "<strong>MASSALE TOEZICHT BLOOTGESTELD</strong>",
+  "i18n-eff-quote-2": "Recente rapporten van The Guardian en The Washington Post bevestigen geheime spionageprogramma&rsquo;s op telefoongesprekken en internetactiviteiten. Het is tijd voor een volledige openheid van Amerika&rsquo;s geheime spionageprogramma&rsquo;s—en om een einde te maken aan ongrondwettelijke toezicht.",
+
   "i18n-more": "meer &hellip;",
   "i18n-the": "De",
-
-
 
   "i18n-media-title": "Vermeldingen in de media.",
   "i18n-catalan": "Catalaans",
@@ -192,19 +173,60 @@
   "i18n-english": "Engels",
   "i18n-french": "Frans",
   "i18n-german": "Duits",
-  "i18n-italian": "Italian",
+  "i18n-italian": "Italiaans",
   "i18n-polish": "Pools",
   "i18n-spanish": "Spaans",
-  "i18n-chinese-traditional": "Chinese (Traditional)",
-
-
-
+  "i18n-chinese-traditional": "Chinees (traditioneel)",
+  "i18n-russian": "Russisch",
+  "i18n-swedish": "Zweeds",
+  
   "i18n-updated": "Bijgewerkt op",
   "i18n-by": "door",
   "i18n-contribute-on": "Help mee op",
   "i18n-donate": "Doneer",
+  "i18n-contribute": "Help mee",
 
+  "i18n-operating-system-note": "<p>Apple, Google, en Microsoft zijn onderdeel van PRISM. Hun gesloten besturingssystemen kunnen niet vertrouwd worden om jouw persoonlijke informatie veilig te stellen van de NSA.</p><p>Er blijven twee vrije alternatieven over: <strong><a href='https://www.gnu.org/distros/free-distros.html'>GNU/Linux</a></strong> en <strong><a href='https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems'>BSD</a></strong>.</p> <p>GNU/Linux heeft een veel grotere gemeenschap om je te helpen met overstappen. Het wordt aangeraden om te beginnen met zoeken naar een <a href='http://distrowatch.com/'>GNU/Linux distributie</a> die bij jou past.</p> <p>Waarom niet Ubuntu? Ubuntu is een slechte keus omdat het <a href='https://www.gnu.org/philosophy/ubuntu-spyware.html'>spyware</a> bevat.</p> <p>Opmerking: PRISM Break raadt de versie van<strong>Linux Mint</strong> zonder codecs aan, de andere uitgaves zitten vol met software patents. <a href='https://github.com/nylira/prism-break/issues/126#issuecomment-19898104'>Meer informatie</a>.</p>",
 
+  "i18n-android-note": "<p><strong>CyanogenMod</strong> licensing: &ldquo;CyanogenMod does still include various hardware-specific code, which is also slowly being open-sourced anyway.&rdquo; &mdash;<a href='https://en.wikipedia.org/wiki/CyanogenMod#Licensing'>Wikipedia</a></p><p><strong>F-Droid</strong> is a free alternative to the Google Play app store.</p>",
 
-  "i18n-footer-disclaimer": "Disclaimer: deze website ondersteunt de Electronic Frontier Foundation (EFF) en de Free Software Foundation (FSF), maar wordt niet officieel ondersteund door een van beide organisaties."
+  "i18n-ios-note": "<p>iOS is onveilig, en helaas zijn er ook weinig vrije versleutel apps beschikbaar voor iOS. Het is ook <a href='http://www.reddit.com/r/privacy/comments/1gnytj/privacy_technology_review_encrypted_imvoipphonesms/cambx4r'>onmogelijk om te verifieren</a> of een iOS app gecompileerd is van de originele broncode.</p>",
+
+  "i18n-web-browser-note": "<p>Use a combination of <strong>Tor Browser</strong> and a free web browser of your choice to the surf the web.</p> <p>Try to use <strong>Tor Browser</strong> as often as possible. Browsing is slower with Tor, but far more secure.</p> <p>Note: <strong>Mozilla Firefox</strong> is technically not completely free software, as Mozilla recommends non-free add-ons on their website.</p>",
+
+  "i18n-web-browser-addons-note": "<p>Safeguard your privacy and stop websites from tracking you by installing Adblock Edge, Disconnect, HTTPS Everywhere, and NoScript in your browser.</p> <p>Why not Adblock Plus? Adblock Plus shows &ldquo;acceptable ads&rdquo; by default, and uses more memory than <strong>Adblock Edge</strong>.</p> <p>Why not Ghostery? Ghostery is a proprietary plugin. Use <strong>Disconnect</strong> instead.</p>",
+
+  "i18n-web-search-note": "<p><strong>Startpage</strong> is gesloten, gehost in de VS/Nederland, en levert je geanonimiseerde Google zoekresultaten (inclusief afbeeldingen).</p><p><strong>DuckDuckGo</strong> is gedeeltelijk gesloten, gehost in de VS, en levert je geanonimiseerde Bing zoekresultaten.</p><p>Kies je vergif.</p>",
+
+  "i18n-email-services-note": "<p><strong>Riseup</strong> is gehost in de VS, in het geval dat uitmaakt.</p><p>Waarom geen Hushmail? Zie <a href='https://en.wikipedia.org/wiki/Hushmail#Compromises_to_email_privacy'>&ldquo;compromises to email privacy&rdquo;</a>.</p>",
+
+  "i18n-email-clients-note": "<p>Opmerking: <strong>Mozilla Thunderbird</strong> is technisch gezien niet volledig vrije software, omdat Mozilla niet-vrije add-ons aanbeveelt op haar website.</p>",
+
+  "i18n-email-encryption-note": "<p>&ldquo;Pretty Good Privacy (lett: aardig goede privacy) wordt meestal afgekort tot PGP en is één van de veel gebruikte vercijferingsmethodes op internet. De standaard die aan PGP ontsproten is wordt thans OpenPGP genoemd en er zijn tegenwoordig vele programma's, zowel commercieel als open source, die deze standaard implementeren en ook grotendeels onderling compatibel zijn.&rdquo;</p><p>&mdash; <a href='https://nl.wikipedia.org/wiki/Pretty_Good_Privacy'>Wikipedia</a>",
+
+  "i18n-social-networking-note": "<p>For those of you without your own server, <strong>RetroShare</strong> is the easiest way to start your own encrypted social network.</p><p><strong><a href='https://identi.ca/'>identi.ca</a></strong> is a popular Twitter-like social networking hub for the free and open source software community. The site is converting to the <strong>pump.io</strong> software platform sometime this week.</p>",
+
+  "i18n-instant-messaging-note": "<p>Be sure to look at <strong>Cryptocat</strong> in the Web browser add-ons section as well.</p></p>",
+
+  "i18n-video-voip-note": "<p><strong>Jitsi</strong> is een versleutelde vervanger voor bijna alle taken waarvoor Skype gebruikt kan worden.</p><p><strong>Mumble</strong> is een open source spraak chat client net zoals Ventrilo en TeamSpeak.</p><p><a href='http://www.webrtc.org/'>WebRTC</a> is een nieuwe, veelbelovende browser naar browser communicatie API.",
+
+  "i18n-online-transactions-note": "<p>The <strong>Bitcoin</strong> blockchain is a decentralized, public ledger of all transactions in the Bitcoin network.</p><p>&ldquo;It may be the TCP/IP of money.&rdquo; &mdash;Paul Buchheit</p>",
+
+  "i18n-media-publishing-note": "<p><strong>Zelf-gehost</strong> is belangrijk. Hosten van je blog op Wordpress.com is niet beter voor je dat veiligheid dan op Blogger of Tumblr.</p>",
+
+  "i18n-document-collaboration-note": "<p>--</p>",
+
+  "i18n-maps-note": "<p>&ldquo;Als je meewerkt aan het OpenStreetMap help je mee om een geografische database van de wereld te bouwen welke vrij en open voor iedereen is en voor altijd.&rdquo;</p><p>&mdash; <a href='http://wiki.openstreetmap.org/wiki/Google_Map_Maker'>OpenStreetMap Wiki</a></p>",
+
+  "i18n-cloud-storage-note": "<p>Waarom geen MEGA? Terwijl er aan MEGA geen kosten zijn verbioden, is de software gesloten code.</p><p>Waarom geen SpiderOak? SpiderOak is gesloten software.</p><p>Waarom geen Tarsnap? Tarsnap is gedeeltelijk gesloten en host je data op Amazon Web Services.</p>",
+
+  "i18n-web-analytics-note": "<p><strong>Piwik</strong> analytics powers this site. It's set up to anonymize the last octet (255.255.255.???) of visitor IPs. Check out the live data here: <a href='http://prism-break.org/analytics'>prism-break.org/analytics</a>.",
+
+  "i18n-dns-provider-note": "<p>Google Public DNS logt je ISP en locatie informatie voor analyse. Je IP adres wordt ook opgeslagen voor 24 uur.</p><p><strong>OpenNIC</strong> heeft geen officiele policy aangaande log query privacy / anonimisatie. Meer informatie <a href='http://wiki.opennicproject.org/Tier2'>hier</a>.</p>",
+
+  "i18n-darknet-note": "<p>&ldquo;A darknet is an anonymizing network where connections are made only between trusted peers.</p><p>Darknets are distinct from other distributed P2P networks as sharing is anonymous, and therefore users can communicate with little fear of governmental or corporate interference.&ldquo;</p><p>&mdash;<a href='https://en.wikipedia.org/wiki/Darknet_%28file_sharing%29'>Wikipedia</a></p>",
+ 
+  "i18n-site-license": "<p>PRISM Break&rsquo;s code en tekst zijn uitgebracht onder een <a href='http://www.gnu.org/licenses/gpl.html'>GNU GPL v3 licentie</a>.</p><p>jQuery v1.10.1, jPanelMenu, HTML5 Shiv v3.6.2pre, stylus, en nib zijn uitgebracht onder de MIT licentie.</p><p>Logo's en afbeeldingen zijn eigendom van de respectievelijke bedrijven.</p>", 
+ 
+  "i18n-disclaimer": "Disclaimer: Het gebruik van de aangerade software op deze site garandeerd niet dat 100% van je communicatie beveiligd is tegen datatoezichtsprogramma's. Doe je eigen onderzoek voordat je deze software vertrouwd met gevoelige informatie."
 }
